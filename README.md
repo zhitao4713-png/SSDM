@@ -21,8 +21,8 @@ Alternatively, you can use the provided `config/config.yaml` and standard requir
 
 ## Datasets
 
-The associated testing datasets are located in the `input/` directory. 
-- **`input/ssdm_test*.jpg`**: Benchmark images used for evaluating visual quality (PSNR, SSIM, LPIPS) and watermark robustness.
+The associated testing datasets are located in the `input/` directory. These benchmark images are partially selected from the **[MS-COCO](https://cocodataset.org/)** and **[DiffusionDB](https://huggingface.co/datasets/poloclub/diffusiondb)** datasets for evaluating visual quality (PSNR, SSIM, LPIPS) and watermark robustness.
+- **`input/ssdm_test*.jpg`**: Benchmark images from MS-COCO and DiffusionDB.
 - Generated watermarked images and attacked samples will be saved automatically in the `output/` directory.
 
 ## Key Algorithms Implementation
