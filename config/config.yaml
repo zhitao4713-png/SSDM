@@ -1,0 +1,21 @@
+empty_prompt: true
+gen_seed: 0
+iters: 2
+loss_weights:
+- 10.0
+- 2
+- 2.0
+- 0.0
+method: SSDM
+model_id: runwayml/stable-diffusion-v1-5
+pipeline_name: Stationary Wavelet Diffusion Watermarking (SSDM)
+save_img: ./output/
+save_iters:
+- 2
+ssim_threshold: 0.94
+start_latents: init_w
+version: 1.0.0
+w_channel: 3
+w_level: 1
+w_seed: 10
+w_type: swt
