@@ -1,7 +1,7 @@
 # SSDM: Stationary Wavelet Diffusion Watermarking
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) 
-*(Note: Replace XXXXXXX with your actual Zenodo DOI after release)*
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20205863.svg)](https://doi.org/10.5281/zenodo.20205863) 
+*(Note: Replace 20205863 with your actual Zenodo DOI after release)*
 
 This repository contains the official implementation of the algorithm proposed in our paper, submitted to **The Visual Computer**. SSDM is an advanced, robust, and imperceptible watermarking pipeline designed specifically for Latent Diffusion Models (e.g., Stable Diffusion).
 
