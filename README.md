@@ -49,11 +49,11 @@ python evaluate_ssdm.py
 If you find our code, datasets, or methodology useful in your research, please cite our paper published in **The Visual Computer**:
 
 ```bibtex
-@article{ssdm_visual_computer_202X,
-  title={Your Full Article Title Here},
-  author={Your Name and Co-authors},
+@article{ssdm_visual_computer_2026,
+  title={SWT-Augmented Adaptive Spread-Spectrum Watermarking in Diffusion Latents},
+  author={Zhitao Han, Siau-Chuin Liew},
   journal={The Visual Computer},
-  year={202X},
+  year={2026},
   publisher={Springer}
 }
 ```
